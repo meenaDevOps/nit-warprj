@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello my jar prj with token1!</h2>
+<h2>Hello my jar prj autodeploy to tomcat</h2>
 </body>
 </html>
