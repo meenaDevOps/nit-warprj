@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello my jar prj autodeploy to tomcat</h2>
+<h2>Hello my war prj autodeploy to tomcat server</h2>
 </body>
 </html>
